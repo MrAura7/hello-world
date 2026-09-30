@@ -1,2 +1,2 @@
 # hello-world
-This repository is made by Aaron George for ICS work
+Im a highschool student at St. Robert CHS
